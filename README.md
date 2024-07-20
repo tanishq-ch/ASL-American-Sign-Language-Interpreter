@@ -1,1 +1,3 @@
-# ASL-American-Sign-Language-Interpreter
+# American Sign Language (ASL) Interpreter
+
+The aim of this project is to build an interpreter that would be able to classify which letter of the American Sign Language(ASL) is shown, given an image of a hand performing a sign language gesture. This project is step towards building a possible sign language interpreter, which can take communications in sign language as input and translate them into written English language. Such an interpreter would greatly remove the barrier for many deaf and mute individuals and even for their community, so as to be able to better communicate and interact with others easily in their day-to-day life.
